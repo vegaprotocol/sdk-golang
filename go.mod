@@ -7,7 +7,7 @@ require (
 	github.com/mwitkow/go-proto-validators v0.3.2
 	github.com/satori/go.uuid v1.2.0
 	github.com/stretchr/testify v1.7.0
-	google.golang.org/genproto v0.0.0-20211008145708-270636b82663
-	google.golang.org/grpc v1.41.0
-	google.golang.org/protobuf v1.27.1
+	google.golang.org/genproto v0.0.0-20220623142657-077d458a5694
+	google.golang.org/grpc v1.47.0
+	google.golang.org/protobuf v1.28.0
 )
